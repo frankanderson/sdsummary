@@ -6,7 +6,7 @@ import os
 logdir = (os.environ["HOME"] +
           "/Library/Application Support/" +
           "SuperDuper!/Scheduled Copies/" +
-          "Smart Update Backup from Macintosh HD.sdsp/Logs/")
+          "Smart Update Backup from Titan HD.sdsp/Logs/")
 
 def sdinfo(s):
   "Return just the timestamp and process information from a SuperDuper line."
